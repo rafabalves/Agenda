@@ -64,11 +64,11 @@ namespace Agenda
                         break;
 
                     case "5":
-                        Console.WriteLine("Saindo do programa...\n\nPressione Enter para fechar");
+                        Console.WriteLine("Saindo do programa...\n\nPressione Enter para fechar.");
                         break;
 
                     default:
-                        Console.WriteLine("Opção inválida. Tente novamente.");
+                        Console.WriteLine("\nOpção inválida. Tente novamente.");
                         break;
                 }
 
